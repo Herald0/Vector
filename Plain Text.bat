@@ -1,0 +1,1 @@
+pyuic6 Vector.ui -x -o Vector.py
